@@ -1,6 +1,6 @@
 # whoami
-**Focus:** Embedded Systems (ATmega328P/ESP32), CI/CD tools, General Machine Learning.
-**Main languages:** C and Python
+- **Focus:** Embedded Systems (ATmega328P/ESP32), CI/CD tools, General Machine Learning.
+- **Main languages:** C and Python
 
 # Education
 Czech Technical University in Prague (CVUT FEL) – Bachelor of Science in Electrical Engineering, Communications and Computer Science.
