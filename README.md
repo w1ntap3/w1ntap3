@@ -1,17 +1,16 @@
 # whoami
-- **Focus:** Embedded Systems (ATmega328P/ESP32), CI/CD tools, General Machine Learning.
-- **Main languages:** C and Python
+- name: Javid Guluzade
+- focus: embedded systems, C programming, edge machine learning, CI/CD tools.
+- study: ČVUT FEL in Prague, BSc in EECS
+- linkedin: [linkedin.com/in/javidguluzade](https://www.linkedin.com/in/javid-guluzade-b948503aa/)
+- personal website: [javidguluzade.com](javidguluzade.com)
 
-# Education
-Czech Technical University in Prague (CVUT FEL) – Bachelor of Science in Electrical Engineering, Communications and Computer Science.
+# contributions
 
-# My notable repos
-- **[N3S](https://github.com/w1ntap3/N3S)** – Filesystem, Display Library, Communication Protocol and CLI tool from scratch.
-- **[go-c-log](https://github.com/w1ntap3/go-c-log)** – Asynchronous, encrypted UDP logging engine written in C (ESP-IDF/LwIP) paired with a concurrent Go collector. Developed with a friend to demonstrate lock-free FreeRTOS buffers, hardware AES-128-GCM, custom binary framing, and network state recovery.
-- **[elfmane](https://github.com/w1ntap3/elfmane)** – CLI ELF interpreter in C that parses metadata.
+## own repos
+- **[n3s](https://github.com/w1ntap3/N3S)** – EEPROM filesystem, OLED graphics library, custom wire protocol over UART, and Linux CLI built from scratch in bare-metal C for ATmega328P.
+- **[flincgo](https://github.com/w1ntap3/flincgo)** – encrypted and efficient udp logging platform for ESP32 paired with a Go collector and real-time dashboard.
+- **[elfmane](https://github.com/w1ntap3/elfmane)** – CLI written in C that parses ELF headers and section tables to inspect binary metadata inspired by `readelf`.
 
-# Contact
-- **Name:** Javid Guluzadeh
-- **Email:** cavid.guluzadeh@gmail.com
-- **LinkedIn:** [linkedin.com/in/javidguluzade](https://www.linkedin.com/in/javid-guluzade-b948503aa/)
-- **Personal website:** [javidguluzade.com](javidguluzade.com)
+## pull requests
+(nothing to show YET, im baiting anticipation)
