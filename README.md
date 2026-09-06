@@ -3,7 +3,7 @@
 - **focus** - embedded systems, C programming, edge machine learning, CI/CD tools.
 - **study** - ČVUT FEL in Prague, BSc in EECS
 - **credentials and career** - [linkedin.com/in/javid-guluzade](https://www.linkedin.com/in/javid-guluzade-b948503aa/)
-- **personal website with articles and project descriptions** - [javidguluzade.com](javidguluzade.com)
+- **personal website with articles and project descriptions** - [javidguluzade.com](https://www.javidguluzade.com)
 
 # contributions
 
